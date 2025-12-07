@@ -1,0 +1,5 @@
+Artificial intelligence is transforming the world. 
+Large language models can learn patterns from a lot of text.
+This is a small custom corpus made by Ananya to pretrain a tiny GPT-2 model.
+You can add random paragraphs, notes, stories, or any text here.
+The more text you add, the better the tiny model can learn patterns.

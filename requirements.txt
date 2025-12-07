@@ -1,0 +1,14 @@
+transformers==4.45.0
+datasets
+accelerate
+peft
+bitsandbytes
+huggingface_hub
+python-dotenv
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+pypdf
+langchain-text-splitters
+

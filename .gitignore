@@ -1,0 +1,21 @@
+# Virtual env
+.venv/
+
+# Model & training outputs
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Checkpoints / big files (extra safety)
+*.safetensors
+*.pt
+*.bin
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env files
+.env
